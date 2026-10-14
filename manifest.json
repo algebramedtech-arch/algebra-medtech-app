@@ -2,7 +2,6 @@
 {
   "name": "ALGEBRA MedTech Product Intelligence",
   "short_name": "ALGEBRA",
-  "description": "Internal anatomy and orthopaedic product presentation toolkit",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
